@@ -10,8 +10,6 @@ public class MainTakeda {
 		System.out.print("高原");
 			System.out.print("有宗拓馬");
 	}
-		// TODO 自動生成されたメソッド・スタブ
-
 	}
 
 }
